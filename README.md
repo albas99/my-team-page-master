@@ -69,3 +69,4 @@ This application/site was created as a submission to a [DevChallenges](https://d
 - Website [albasfaisal.com](https://{links.albasfaisal.com})
 - GitHub [@albas99](https://{github.com/albas99})
 - Twitter [@albas_phaysal](https://{twitter.com/Albas_Phaysal})
+- Instagram [@albas_phaysal](https://{instagram.com/albas_phaysal})
