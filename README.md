@@ -66,6 +66,6 @@ This application/site was created as a submission to a [DevChallenges](https://d
 
 ## Contact
 
-- Website [your-website.com](https://{links.albasfaisal.com})
-- GitHub [@your-username](https://{github.com/albas99})
-- Twitter [@your-twitter](https://{twitter.com/Albas-Phaysal})
+- Website [albasfaisal.com](https://{links.albasfaisal.com})
+- GitHub [@albas99](https://{github.com/albas99})
+- Twitter [@albas_phaysal](https://{twitter.com/Albas_Phaysal})
